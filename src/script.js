@@ -1,5 +1,5 @@
 function getMessage() {
-  return "Pipeline is working!";
+  return "Pipeline is working well!";
 }
 
 function showMessage() {
